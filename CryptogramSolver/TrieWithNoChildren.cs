@@ -1,5 +1,6 @@
 ﻿/* TrieWithNoChildren.cs
  * Julie Thornton
+ * Modified by Jack Cannell
  */
 
 using System;

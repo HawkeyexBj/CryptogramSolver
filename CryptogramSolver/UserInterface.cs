@@ -1,3 +1,8 @@
+/*
+ * UserInterface
+ * Author: Rodney Howell 
+ * Modified by Jack Cannell
+ */
 using System.Collections.Generic;
 using System.Windows.Forms;
 
