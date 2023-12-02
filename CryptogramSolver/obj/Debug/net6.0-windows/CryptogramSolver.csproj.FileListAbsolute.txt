@@ -1,0 +1,16 @@
+C:\Users\Jack\OneDrive\Desktop\Copy\CryptogramSolver\obj\Debug\net6.0-windows\CryptogramSolver.UserInterface.resources
+C:\Users\Jack\OneDrive\Desktop\Copy\CryptogramSolver\obj\Debug\net6.0-windows\CryptogramSolver.csproj.GenerateResource.cache
+C:\Users\Jack\OneDrive\Desktop\Copy\CryptogramSolver\obj\Debug\net6.0-windows\CryptogramSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\OneDrive\Desktop\Copy\CryptogramSolver\obj\Debug\net6.0-windows\CryptogramSolver.AssemblyInfoInputs.cache
+C:\Users\Jack\OneDrive\Desktop\Copy\CryptogramSolver\obj\Debug\net6.0-windows\CryptogramSolver.AssemblyInfo.cs
+C:\Users\Jack\OneDrive\Desktop\Copy\CryptogramSolver\obj\Debug\net6.0-windows\CryptogramSolver.csproj.CoreCompileInputs.cache
+C:\Users\Jack\OneDrive\Desktop\Copy\CryptogramSolver\bin\Debug\net6.0-windows\CryptogramSolver.exe
+C:\Users\Jack\OneDrive\Desktop\Copy\CryptogramSolver\bin\Debug\net6.0-windows\CryptogramSolver.deps.json
+C:\Users\Jack\OneDrive\Desktop\Copy\CryptogramSolver\bin\Debug\net6.0-windows\CryptogramSolver.runtimeconfig.json
+C:\Users\Jack\OneDrive\Desktop\Copy\CryptogramSolver\bin\Debug\net6.0-windows\CryptogramSolver.dll
+C:\Users\Jack\OneDrive\Desktop\Copy\CryptogramSolver\bin\Debug\net6.0-windows\CryptogramSolver.pdb
+C:\Users\Jack\OneDrive\Desktop\Copy\CryptogramSolver\obj\Debug\net6.0-windows\CryptogramSolver.dll
+C:\Users\Jack\OneDrive\Desktop\Copy\CryptogramSolver\obj\Debug\net6.0-windows\refint\CryptogramSolver.dll
+C:\Users\Jack\OneDrive\Desktop\Copy\CryptogramSolver\obj\Debug\net6.0-windows\CryptogramSolver.pdb
+C:\Users\Jack\OneDrive\Desktop\Copy\CryptogramSolver\obj\Debug\net6.0-windows\CryptogramSolver.genruntimeconfig.cache
+C:\Users\Jack\OneDrive\Desktop\Copy\CryptogramSolver\obj\Debug\net6.0-windows\ref\CryptogramSolver.dll
