@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jack\\Source\\Repos\\HawkeyexBj\\CryptogramSolver\\CryptogramSolver\\CryptogramSolver.csproj": {}
+    "C:\\Users\\Jack\\OneDrive\\Desktop\\Updated\\HawkeyexBj\\CryptogramSolver\\CryptogramSolver\\CryptogramSolver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jack\\Source\\Repos\\HawkeyexBj\\CryptogramSolver\\CryptogramSolver\\CryptogramSolver.csproj": {
+    "C:\\Users\\Jack\\OneDrive\\Desktop\\Updated\\HawkeyexBj\\CryptogramSolver\\CryptogramSolver\\CryptogramSolver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jack\\Source\\Repos\\HawkeyexBj\\CryptogramSolver\\CryptogramSolver\\CryptogramSolver.csproj",
+        "projectUniqueName": "C:\\Users\\Jack\\OneDrive\\Desktop\\Updated\\HawkeyexBj\\CryptogramSolver\\CryptogramSolver\\CryptogramSolver.csproj",
         "projectName": "CryptogramSolver",
-        "projectPath": "C:\\Users\\Jack\\Source\\Repos\\HawkeyexBj\\CryptogramSolver\\CryptogramSolver\\CryptogramSolver.csproj",
+        "projectPath": "C:\\Users\\Jack\\OneDrive\\Desktop\\Updated\\HawkeyexBj\\CryptogramSolver\\CryptogramSolver\\CryptogramSolver.csproj",
         "packagesPath": "C:\\Users\\Jack\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jack\\Source\\Repos\\HawkeyexBj\\CryptogramSolver\\CryptogramSolver\\obj\\",
+        "outputPath": "C:\\Users\\Jack\\OneDrive\\Desktop\\Updated\\HawkeyexBj\\CryptogramSolver\\CryptogramSolver\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jack\\AppData\\Roaming\\NuGet\\NuGet.Config",
